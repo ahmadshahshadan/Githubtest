@@ -21,12 +21,12 @@ public class LoopsExcercise {
 //		do {
 //			System.out.println(a);
 //			a=a+3;
-//		}
+//		}   
 //		while (a<50);
-		
+		   
 		for (int a = 3; a <30; a=a+3) {
 		System.out.println(a);
-	
+	    
 		}
 	}
 	}
