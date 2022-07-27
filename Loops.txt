@@ -1,0 +1,32 @@
+package loops;
+
+public class LoopsExcercise {
+	
+	public static void main(String[] args) {
+		
+	
+	
+	// 3,6,9,..50
+   
+//		int a = 3 ;
+//		while (a <25) {
+//	
+//		System.out.println(a);
+//		
+//	 a = a+3;  
+////	   
+//		}  
+//		 
+//		int a = 3;
+//		do {
+//			System.out.println(a);
+//			a=a+3;
+//		}
+//		while (a<50);
+		
+		for (int a = 3; a <30; a=a+3) {
+		System.out.println(a);
+	
+		}
+	}
+	}
